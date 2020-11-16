@@ -1,11 +1,41 @@
-
-<!DOCTYPE html>
-<html>
-<head>
-
-
-
-<body>
-{
-color:red
+body {
+background-color: lightsteelblue;
+margin-top: 100px;
+margin-bottom: 100px;
+margin-left: 50;
+margin-right: 50;
+font-size: medium;
+font-weight: bold;
 }
+p.sidebar {
+    font-size: medium;
+    font-style: italic;
+    color: red;
+    
+}
+
+p.warning {
+    font-size: x-large;
+    font-style: italic;
+    font-family: 'creepster',cursive;
+    color: red;
+}
+
+#imposter {
+    background-color: linen;
+    text-align: center;
+    font-size: x-large;
+    color: red;
+}
+
+h1, h2, h3, h4 {
+    padding: 80 px;
+    text-align: center;
+    background-color: yellow
+    
+}
+
+
+
+
+
