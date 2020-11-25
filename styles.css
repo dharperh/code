@@ -2,8 +2,8 @@ body {
 background-color: lightsteelblue;
 margin-top: 100px;
 margin-bottom: 100px;
-margin-left: 50;
-margin-right: 50;
+margin-left: 50px;
+margin-right: 50px;
 font-size: medium;
 font-weight: bold;
 }
@@ -29,11 +29,23 @@ p.warning {
 }
 
 h1, h2, h3, h4 {
-    padding: 80 px;
+    padding: 10px;
     text-align: center;
     background-color: yellow
     
 }
+
+h2, h3, h4 {
+    font-size: 20px;
+}
+
+
+img {
+    width:  auto;
+    height: 50px;
+}
+
+
 
 
 
